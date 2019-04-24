@@ -17,4 +17,10 @@ washington.csv
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html
+
+https://docs.scipy.org/doc/numpy-1.13.0/user/index.html
+
+Python for Data Analysis by Wes McKinney
+
+https://www.w3schools.com/python/
